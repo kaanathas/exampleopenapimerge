@@ -19,10 +19,4 @@ done
 curl https://aqueous-retreat-41952.herokuapp.com/downloadDocument -o $myfile.zip
 
 
-
-
-
-
-
-
 # node $MY_COOL_NODE_APP/index.js 
