@@ -1,6 +1,6 @@
 export MY_COOL_NODE_APP=$HOME/Documents/generateApp/
 
-echo enter files path like /Documents/openapiyamls
+echo enter files path like Documents/openapiyamls
 read search_dir
 # =$HOME/Documents/openapiyamls/
 
